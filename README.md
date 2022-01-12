@@ -19,7 +19,8 @@ Thank you for taking the time to look through my profile, I hope you find someth
 #### Chapter 7:
 -
 #### Chapter 8:
--[Sanwich Maker](https://github.com/xamata/Automate-The-Boring-Stuff/blob/main/Chapter-08/sandwichMaker.py)
+- [Sanwich Maker](https://github.com/xamata/Automate-The-Boring-Stuff/blob/main/Chapter-08/sandwichMaker.py)
+- [Multiplication Quiz](https://github.com/xamata/Automate-The-Boring-Stuff/blob/main/Chapter-08/myOwnMultiplicationQuiz.py)
 #### Chapter 9:
 -
 #### Chapter 10:
